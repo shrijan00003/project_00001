@@ -1,0 +1,8 @@
+===========================
+original value in php.ini-development
+==========================
+max_execution_time = 30 
+memory_limit = 128M
+post_max_size = 8M
+upload_max_filesize = 2M
+==============================
